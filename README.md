@@ -1,2 +1,2 @@
-# Projekt_igrica
-Konačna verzija!
+# Projek
+testne verzije!
